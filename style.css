@@ -1,0 +1,85 @@
+/* リセットCSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ボディ */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* ヘッダー */
+header {
+  background-color: #8dbd6e;
+  color: white;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+header .hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+header .hero p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.cta-button {
+  background-color: #e97d3f;
+  color: white;
+  padding: 15px 30px;
+  font-size: 1rem;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #f87e2b;
+}
+
+/* セクション */
+.section {
+  padding: 40px 20px;
+  text-align: center;
+  background-color: white;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  margin-bottom: 20px;
+}
+
+li {
+  font-size: 1.1rem;
+  margin: 10px 0;
+}
+
+.testimonial {
+  margin-bottom: 20px;
+  font-style: italic;
+}
+
+.faq-item {
+  margin-bottom: 20px;
+}
+
+/* フッター */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
