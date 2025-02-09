@@ -13,6 +13,10 @@ body {
   background-image: url("images/bg.jpg");
   background-size: cover;
   background-position: center;
+  img {
+  width: 300px; /* 横幅を300pxにする */
+  height: auto; /* 縦の比率を自動調整 */
+}
 }
 
 /* ヘッダー */
