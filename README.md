@@ -10,7 +10,8 @@
       <h1>免疫力と美肌をサポートする、<span>森のダイヤモンド</span></h1>
       <p>２万本に１つの奇跡、チャーガサプリで健康と美しさを手に入れよう</p>
       <img src="1398462.png" alt="チャーガサプリメントの画像" width="600">
-      <a href="#purchase" class="cta-button">今すぐ購入</a>
+     
+  <a href="#purchase" class="cta-button">今すぐ購入</a>
     </div>
   </header>
 
