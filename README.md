@@ -71,14 +71,7 @@
     <a href="#purchase" class="cta-button">今すぐ購入</a>
   </section>
 
-  <!-- フッター -->
-  <footer>
-    <p>&copy; 2025 チャーガサプリメント</p>
-  </footer>
-</body>
-</html>
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXX-X"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXX-X"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -86,5 +79,9 @@
   gtag('config', 'UA-XXXXXX-X');
 </script>
 
-
-
+  <!-- フッター -->
+  <footer>
+    <p>&copy; 2025 チャーガサプリメント</p>
+  </footer>
+</body>
+</html>
