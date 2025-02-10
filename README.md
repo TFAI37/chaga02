@@ -12,6 +12,17 @@
       <img src="1398462.png" alt="チャーガサプリメントの画像" width="600">
      
   <a href="#purchase" class="cta-button">今すぐ購入</a>
+  .button {
+  display: block;
+  width: 200px;
+  margin: 20px auto;
+  text-align: center;
+  padding: 10px 20px;
+  background-color: #e97d3f;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
     </div>
   </header>
 
