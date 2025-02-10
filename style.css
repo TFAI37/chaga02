@@ -86,6 +86,16 @@ li {
 /* フッター */
 footer {
   background-color: #333;
+
+@media screen and (max-width: 768px) {
+  .cta-button {
+    width: 100%; /* スマホではボタンを全幅に */
+  }
+}
+
+
+
+  
   color: white;
   text-align: center;
   padding: 20px;
