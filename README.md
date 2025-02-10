@@ -71,14 +71,6 @@
     <a href="#purchase" class="cta-button">今すぐ購入</a>
   </section>
 
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXX-X"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-XXXXXX-X');
-</script>
-
   <!-- フッター -->
   <footer>
     <p>&copy; 2025 チャーガサプリメント</p>
